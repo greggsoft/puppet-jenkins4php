@@ -1,5 +1,5 @@
-name 'rafaelfc-jenkins4php'
-version '1.0.1'
+name 'greggsoft-jenkins4php'
+version '0.1.0'
 
 author 'Rafael Felix Correa <rafael.felix@gmail.com>'
 license 'Apache 2.0'
@@ -10,5 +10,5 @@ description 'Enables provisioning a Jenkins CI Server for PHP Project.
 
 Contais: most of the PHPQATools (http://phpqatools.org), a template job (http://jenkins-php.org) and its plugins.'
 dependency 'rafaelfc/jenkins', '>=1.0.0'
-dependency 'rafaelfc/phpqatools', '>=1.0.0'
-dependency 'rafaelfc/java', '>=1.0.0'
+dependency 'greggsoft/phpqatools', '>=1.0.0'
+dependency 'greggsoft/java', '>=1.0.0'

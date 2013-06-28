@@ -9,6 +9,6 @@ summary 'Enables provisioning a Jenkins CI Server for PHP Project.'
 description 'Enables provisioning a Jenkins CI Server for PHP Project.
 
 Contais: most of the PHPQATools (http://phpqatools.org), a template job (http://jenkins-php.org) and its plugins.'
-dependency 'rafaelfc/jenkins', '>=1.0.0'
-dependency 'greggsoft/phpqatools', '>=1.0.0'
-dependency 'greggsoft/java', '>=1.0.0'
+dependency 'rtyler/jenkins', '>=0.2.4'
+dependency 'greggsoft/phpqatools', '>=0.1.0'
+dependency 'greggsoft/java', '>=0.1.0'
